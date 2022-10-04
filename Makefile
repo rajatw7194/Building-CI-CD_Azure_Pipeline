@@ -9,4 +9,4 @@ lint:
 	pylint --disable=R,C hello.py
 
 all:
-	install test
+	install lint test
