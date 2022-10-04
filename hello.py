@@ -1,8 +1,8 @@
-def toyou(x):
+def toyou(2):
 	return "hi %s" % x
 
-def add(x):
+def add(2):
 	return x + 1
 
-def subtract(x):
+def subtract(2):
 	return x - 1
