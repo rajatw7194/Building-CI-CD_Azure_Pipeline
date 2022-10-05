@@ -10,6 +10,7 @@ test:
 	#python -m pytest --nbval notebook.ipynb
 
 
-lint: pylint --disable=R,C,W1203 app.py
+lint:
+	pylint --disable=R,C,W1203 app.py
 
 all: install lint test
