@@ -8,13 +8,13 @@ This project will start with creating a scaffolding to assist in performing Cont
 
 ### Trello board
 
-https://trello.com/b/Ua1O1dSn/create-ci-cd-pipeline
+
 
 ### Spreadsheet Project Plan
 
-https://docs.google.com/spreadsheets/d/10TB6OXX8196cBgYHUD4E6tcd--r-CuljEN8CGN7dNSU/edit?usp=sharing
+
 ## Architectural Diagram
-![architecture diagram](./images/Architecture.png)
+
 
 ## CI: Set Up Azure Cloud Shell
 
