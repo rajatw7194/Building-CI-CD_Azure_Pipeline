@@ -29,12 +29,10 @@ This project will start with creating a scaffolding to assist in performing Cont
 - Go to Azure Portal and  Click Azure Cloud Shell
 - Type `ssh-keygen -t rsa` to generate a key
 
-![ssh keygen](./images/sshkeygen.png)
 
 - Type `cat /home/jenny/.ssh/id_rsa.pub` to generate the key.
 - Copy the generated key and go to GitHub. Click the settings and paste the key.
 
-![GitHub Setting](./images/GitHubSetting.png)
 
 ### 2. Create Project Scaffolding
 
