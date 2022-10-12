@@ -30,7 +30,7 @@ This project will start with creating a scaffolding to assist in performing Cont
 - Type `ssh-keygen -t rsa` to generate a key
 
 
-- Type `cat /home/jenny/.ssh/id_rsa.pub` to generate the key.
+- Type `cat /home/rajatw7194/.ssh/id_rsa.pub` to generate the key.
 - Copy the generated key and go to GitHub. Click the settings and paste the key.
 
 
